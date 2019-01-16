@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#20b1e6</color>
+    <color name="colortest">#a5a9be</color>
+    <color name="AlkaliMetal">#FFA265</color>
+    <color name="AlkalineEarthMetal">#F8D161</color>
+    <color name="TransitionMetal">#FEFA8E</color>
+    <color name="OtherMetal">#F6DB81</color>
+    <color name="Metalloid">#E7ADF5</color>
+    <color name="OtherNonmetal">#FF83DB</color>
+    <color name="Halogen">#BEE4BF</color>
+    <color name="NobleGas">#9AE0F5</color>
+    <color name="Other">#E6E6E6</color>
+    <color name="Hydrogen">#8e8e8e</color>
+</resources>

@@ -1,0 +1,12 @@
+TEN DE TAI: Ung dung ho tro hoc tot mon hoa hoc
+NHOM: 59
+
+SV1
+TEN: HO THAI NGOC
+MSSV: 16520825
+EMAIL: 16520825@gm.uit.edu.vn
+
+SV2
+TEN: PHAM THI HOANG MAI
+MSSV: 16520717
+EMAIL: 16520717@gm.uit.edu.vn
